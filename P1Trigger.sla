@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "P1Trigger"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "LXd8zAJvUv196z/MvLa09Q==",
+                "sym_key": "IuTxRpA5POoVw7rdEUDfqAxiWAflX9HN/WnRaxost+8UU2qC1PrUl++NBmw05XLBizaDMV3qP5nJrGx3ESyJiwT+/Bx+Rz7+wOdOzQtbzVVG+JwuUWmu+WA7xwi0aoh6caAgohVT8N3lN/qnrnbeNQh44Z6D1nqdN/y/5h/ARoXXKCUAq2XT2t9sxuhvg+zf6FzlXXPV5a35VTBSnB/rsqLninxLYTbNsNPcZTH5eD7t6Te/YQCYJe7vXZgbpB6mSQqrdmvsKMnM2KJnQxi1hVv94gLqZHvsJbO6Wn385HeqjGkuSIgRCUn2krBZgv5gm4R/tJJ/KIb8PAI/fxc0xA==",
+                "value": "ofqd8s7+Jilxi7t12c2XPQ=="
+            },
+            "username": {
+                "value": "snaplogic.training2@interworks.com.mk"
+            }
+        },
+        "view_serial": 100
+    }
+}
